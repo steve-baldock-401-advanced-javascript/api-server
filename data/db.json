@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "id1",
+      "name": "fun",
+      "display_name": "Fun Stuff",
+      "description": "this stuff is fun"
+    },
+    {
+      "id": "id2",
+      "name": "dude",
+      "display_name": "El Duderino",
+      "description": "the dude abides"
+    }
+  ],
+  "products": [
+    {
+      "id": "id3",
+      "category": "stuff",
+      "name": "bacon",
+      "display_name": "porky",
+      "description": "pork"
+    },
+    {
+      "id": "id4",
+      "category": "stuff",
+      "name": "beef",
+      "display_name": "steak",
+      "description": "beuf"
+    }
+  ]
+}
