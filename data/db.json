@@ -1,32 +1,45 @@
 {
   "categories": [
     {
-      "id": "id1",
-      "name": "fun",
-      "display_name": "Fun Stuff",
-      "description": "this stuff is fun"
+      "id": "1",
+      "name": "jazz",
+      "display_name": "swinging",
+      "description": "improvisation"
     },
     {
-      "id": "id2",
-      "name": "dude",
-      "display_name": "El Duderino",
-      "description": "the dude abides"
+      "id": "2",
+      "name": "funk",
+      "display_name": "groovin",
+      "description": "swagger"
+    },
+    {
+      "id": "3",
+      "name": "gospel",
+      "display_name": "testifying",
+      "description": "heart-felt"
     }
   ],
   "products": [
     {
-      "id": "id3",
-      "category": "stuff",
-      "name": "bacon",
-      "display_name": "porky",
-      "description": "pork"
+      "id": "5",
+      "category": "Jazz",
+      "name": "Nefertiti",
+      "display_name": "Miles Davis",
+      "description": "Post Bop"
     },
     {
-      "id": "id4",
-      "category": "stuff",
-      "name": "beef",
-      "display_name": "steak",
-      "description": "beuf"
+      "id": "6",
+      "category": "funk",
+      "name": "Word Up",
+      "display_name": "Cameo",
+      "description": "Synth Funk"
+    },
+    {
+      "id": "7",
+      "category": "soul",
+      "name": "Otis Blue",
+      "display_name": "Otis Redding",
+      "description": "Southern Soul"
     }
   ]
 }
