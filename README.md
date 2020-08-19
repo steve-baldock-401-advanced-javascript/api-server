@@ -13,6 +13,7 @@
 
 ## Running the App
 * json-server --watch ./data/db.json
+* node .
 
 ## Execution
 
@@ -30,6 +31,9 @@
 * jest
 * is-url
 * mongoose
+* express
+* dotenv
+* supergoose
 
 # Documentation
 * [Swagger Documentation](https://app.swaggerhub.com/apis/sbaldock1/SBaldock-Simple-Server/0.1#trial)
