@@ -8,7 +8,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest--coverage",
+    "test-watch": "jest --watchAll--coverage"
   },
   "repository": {
     "type": "git",
@@ -22,8 +23,11 @@
   },
   "homepage": "https://github.com/steve-baldock-401-advanced-javascript/api-server#readme",
   "dependencies": {
+    "@code-fellows/supergoose": "^1.0.11",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "nodemon": "^2.0.4"
+    "mongoose": "^5.10.0",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
   }
 }
