@@ -1,5 +1,6 @@
 'use strict';
 
+require('@code-fellows/supergoose');
 const { server } = require('../../lib/server.js');
 const supertest = require('supertest');
 const mockRequest = supertest(server);
