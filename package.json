@@ -8,8 +8,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest--coverage",
-    "test-watch": "jest --watchAll--coverage"
+    "test": "jest",
+    "test-watch": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
     "@code-fellows/supergoose": "^1.0.11",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "jest": "^24.9.0",
     "mongoose": "^5.10.0",
     "nodemon": "^2.0.4",
     "supertest": "^4.0.2"
